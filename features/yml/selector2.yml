@@ -1,0 +1,4 @@
+
+googleEdit2: './/*[@name="q"]'
+googleSearch: './/*[@name="btnK"]'
+
